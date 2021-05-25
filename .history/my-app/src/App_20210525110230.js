@@ -10,6 +10,7 @@ function App() {
         <ProfilePhoto />
         <FullName />
         <Address />
+
       </div>
     </div>
   );

@@ -9,7 +9,7 @@ function App() {
       <div>
         <ProfilePhoto />
         <FullName />
-        <Address />
+
       </div>
     </div>
   );
